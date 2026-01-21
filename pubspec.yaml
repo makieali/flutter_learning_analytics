@@ -1,0 +1,32 @@
+name: flutter_learning_analytics
+description: A comprehensive learning analytics and progress visualization package for Flutter educational apps. Features charts, dashboards, forgetting curves, and AI-powered recommendations.
+version: 1.0.0
+homepage: https://github.com/makieali/flutter_learning_analytics
+repository: https://github.com/makieali/flutter_learning_analytics
+issue_tracker: https://github.com/makieali/flutter_learning_analytics/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fl_chart: ^0.69.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+topics:
+  - analytics
+  - charts
+  - education
+  - learning
+  - visualization
+
